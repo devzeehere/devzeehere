@@ -1,10 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=3F8AC4&width=435&lines=Hello%2C+I+am+Zoha+Fathima;Welcome+to+my+Github!;Curious+Learner;Exploring+and+Improving+Everyday" alt="Typing SVG" />
 </h1>
-### Connect with me:
+Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-url/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zoha-fathima/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+
 
 ---
 
