@@ -5,9 +5,10 @@ Connect with me:
 
 <a href="https://www.linkedin.com/in/zoha-fathima" target="_blank">
   <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" />
+  <br>
 </a>
 <a href="https://x.com/zohafathima_?s=21" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/30/000000/x.png" alt="X" />
+  <img src="https://img.icons8.com/ios-filled/30/x.png" alt="X" />
 </a>
 
 
