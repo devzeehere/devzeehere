@@ -26,19 +26,19 @@ Connect with me:
 
 ### GitHub Stats:
 
-![Zoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoha-fathima&show_icons=true&theme=default)
+![Zoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoha-fathima&show_icons=true&theme=tokyonight)
 
 ---
 
 ### Streak Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zoha-fathima&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zoha-fathima&theme=tokyonight)
 
 ---
 
 ### Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoha-fathima&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoha-fathima&layout=compact&theme=tokyonight)
 
 ---
 
