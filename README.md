@@ -5,7 +5,6 @@ Connect with me:
 
 <a href="https://www.linkedin.com/in/zoha-fathima" target="_blank">
   <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" />
-  <br>
 </a>
 <a href="https://x.com/zohafathima_?s=21" target="_blank">
   <img src="https://www.phoronix.net/image.php?id=2023&image=twitter_x" alt="X" width="20px" height="20px"/>
