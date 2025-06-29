@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=3F8AC4&width=435&lines=Hi%2C+I+am+Zoha+Fathima;Curious+Learner;Exploring+and+Improving+Every+Day" alt="Typing SVG" />
+</h1>
+
 
 <!--
 **zoha-fathima/zoha-fathima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
