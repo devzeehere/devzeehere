@@ -1,6 +1,39 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=3F8AC4&width=435&lines=Hello%2C+I+am+Zoha+Fathima;Welcome+to+my+Github!;Curious+Learner;Exploring+and+Improving+Everyday" alt="Typing SVG" />
 </h1>
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-url/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-twitter-handle)
+
+---
+
+### Languages & Tools:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### GitHub Stats:
+
+![Zoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoha-fathima&show_icons=true&theme=default)
+
+---
+
+### Streak Stats:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zoha-fathima&theme=default)
+
+---
+
+### Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoha-fathima&layout=compact)
+
+---
 
 
 <!--
