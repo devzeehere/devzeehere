@@ -8,7 +8,7 @@ Connect with me:
   <br>
 </a>
 <a href="https://x.com/zohafathima_?s=21" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/30/x.png" alt="X" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="X" />
 </a>
 
 
