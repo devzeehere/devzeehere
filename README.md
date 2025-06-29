@@ -7,7 +7,7 @@ Connect with me:
   <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" />
 </a>
 <a href="https://x.com/zohafathima_?s=21" target="_blank">
-  <img src="https://www.phoronix.net/image.php?id=2023&image=twitter_x" alt="X" width="20px" height="20px"/>
+  <img [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]alt="X" width="20px" height="20px"/>
 </a>
 
 
