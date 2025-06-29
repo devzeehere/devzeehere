@@ -3,13 +3,11 @@
 </h1>
 Connect with me:
 
-### Connect with me:
-
 <a href="https://www.linkedin.com/in/zoha-fathima" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png" alt="LinkedIn" />
+  <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" />
 </a>
 <a href="https://x.com/zohafathima_?s=21" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/30/000000/twitter.png" alt="Twitter" />
+  <img src="https://img.icons8.com/ios-filled/30/000000/x.png" alt="X" />
 </a>
 
 
