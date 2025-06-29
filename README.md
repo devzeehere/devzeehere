@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=#FFC0CB&width=435&lines=Hello%2C+I+am+Zoha+Fathima;Welcome+to+my+Github!;Curious+Learner;Exploring+and+Improving+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=3F8AC4&width=435&lines=Hello%2C+I+am+Zoha+Fathima;Welcome+to+my+Github!;Curious+Learner;Exploring+and+Improving+Everyday" alt="Typing SVG" />
 </h1>
 Connect with me:
 
@@ -7,7 +7,7 @@ Connect with me:
   <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" />
 </a>
 <a href="https://x.com/zohafathima_?s=21" target="_blank">
-  <img [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]alt="X" width="20px" height="20px"/>
+  <img  src="https://www.phoronix.net/image.php?id=2023&image=twitter_x"alt="X" width="20px" height="20px"/>
 </a>
 
 
