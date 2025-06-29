@@ -8,7 +8,7 @@ Connect with me:
   <br>
 </a>
 <a href="https://x.com/zohafathima_?s=21" target="_blank">
-  <img src="https://www.phoronix.net/image.php?id=2023&image=twitter_x" alt="X" width="30px" height="30px"/>
+  <img src="https://www.phoronix.net/image.php?id=2023&image=twitter_x" alt="X" width="20px" height="20px"/>
 </a>
 
 
