@@ -18,13 +18,13 @@
 
 ### GitHub Stats:
 
-![Zoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoha-fathima&show_icons=true&theme=tokyonight)
+![Zoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devzeehere&show_icons=true&theme=tokyonight)
 
 ---
 
 ### Streak Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zoha-fathima&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devzeehere&theme=tokyonight)
 
 ---
 
