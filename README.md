@@ -30,7 +30,7 @@
 
 ### Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devzeehere&layout=compact&theme=tokyonight &cache_seconds=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devzeehere&layout=compact&theme=tokyonight&cache_seconds=1)
 
 ---
 
